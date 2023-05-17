@@ -5,3 +5,15 @@ this one is for multi line comments */
 
 // Next we are going to name a variable
 var myName;
+
+// Proper Camel Case Examples
+
+// Variable declarations
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
+
+// Variable assignments
+studlyCapVar = 10;
+properCamelCase = "A String";
+titleCaseOver = 9000;
