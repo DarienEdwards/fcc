@@ -19,3 +19,8 @@ properCamelCase = "A String";
 titleCaseOver = 9000;
 
 // Test Typing to see if anything changes test test test
+
+const FCC = "freeCodeCamp"; // Change this line
+let fact = "is cool!"; // Change this line
+fact = "is awesome!";
+console.log(FCC, fact); // Change this line
