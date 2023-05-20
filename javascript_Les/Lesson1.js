@@ -28,3 +28,4 @@ console.log(FCC, fact); // Change this line
 // More FCC examples to make suren i'm pushing code everyday. 
 
 const sum = 10 + 10;
+
