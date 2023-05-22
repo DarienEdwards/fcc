@@ -1,0 +1,14 @@
+.inverted .overted {
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+}
+
+.inverted {
+
+    background-color: black;
+    color: white;
+}
+
+.overted {
+    background-color: yellow;
+}
