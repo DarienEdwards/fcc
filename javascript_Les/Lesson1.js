@@ -29,3 +29,6 @@ console.log(FCC, fact); // Change this line
 
 const sum = 10 + 10;
 
+// Practicing JS for an hour. and then doing more odin project. 
+
+const myStr = "This is the start. " + "This is the end."; // Change this line
