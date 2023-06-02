@@ -32,3 +32,6 @@ const sum = 10 + 10;
 // Practicing JS for an hour. and then doing more odin project. 
 
 const myStr = "This is the start. " + "This is the end."; // Change this line
+
+let myStr = "This is the first sentence. ";
+myStr += "This is the second sentence.";
