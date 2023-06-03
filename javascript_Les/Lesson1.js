@@ -35,3 +35,8 @@ const myStr = "This is the start. " + "This is the end."; // Change this line
 
 let myStr = "This is the first sentence. ";
 myStr += "This is the second sentence.";
+
+const someAdjective = "Amazing";
+let myStr = "Learning to code is ";
+
+myStr += someAdjective;
