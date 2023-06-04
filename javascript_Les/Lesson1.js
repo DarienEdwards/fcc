@@ -29,19 +29,7 @@ console.log(FCC, fact); // Change this line
 
 const sum = 10 + 10;
 
-// Practicing JS for an hour. and then doing more odin project. 
-
-const myStr = "This is the start. " + "This is the end."; // Change this line
-
-let myStr = "This is the first sentence. ";
-myStr += "This is the second sentence.";
-
-const someAdjective = "Amazing";
-let myStr = "Learning to code is ";
-
-myStr += someAdjective;
-
-// This use to confuse me really bad
+/// This use to confuse me really bad
 const myArray = [
     [1, 2, 3],
     [4, 5, 6],
@@ -50,3 +38,10 @@ const myArray = [
   ];
   
   const myData = myArray[2][1];
+
+  function functionWithArgs(one, two) {
+    console.log(one + two);
+  }
+  
+  functionWithArgs(3, 16);
+  
