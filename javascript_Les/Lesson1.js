@@ -44,4 +44,10 @@ const myArray = [
   }
   
   functionWithArgs(3, 16);
+
+  function timesFive(num) {
+    return num * 5;
+  }
+  
+  const answer = timesFive(5);
   
