@@ -360,3 +360,5 @@ function chainToSwitch(val) {
   }
   
   chainToSwitch(7);
+
+  // Notes on Javascript
