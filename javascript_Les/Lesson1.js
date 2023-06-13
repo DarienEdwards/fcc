@@ -361,4 +361,4 @@ function chainToSwitch(val) {
   
   chainToSwitch(7);
 
-  // Notes on Javascript, not much to add today, working on something
+  // Notes on Javascript, not much to add today, working on something - Will resume tomorrow
